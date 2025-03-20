@@ -1,0 +1,9 @@
+.bloop/
+.metals/
+.vscode/
+*.class
+*.log
+.cache
+.lib/
+dist/
+out/ 
